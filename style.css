@@ -1,0 +1,31 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+/*Start Navbar*/
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+/*End Navbar*/
+
+/* Start Hero */
+.hero-container{
+    border-radius: 20px;
+    background-image: url(imgs/nature.jpg);
+    height: 90vh;
+    color: white;
+    /* justify-content: center;
+    align-content: center;*/
+}
+
+.hero-container h1{
+    font-size: 4rem;
+}
+/* Start Hero */
+
+/* start values */
+.values-container{
+    height: 50vh;
+
+}
+/* End values */
